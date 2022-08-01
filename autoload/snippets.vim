@@ -2,7 +2,7 @@
 iabbrev MVtemplate! <ESC>:r $HOME/.snippets/template.html<CR>
 
 " Creates simple container object
-iabbrev MVcontainer! <ESC>:r $HOME/.snippets/container.css<CR>
+iabbrev MVcontainer! <ESC>:r container.css<CR>
 
 " Creates simple container object
 iabbrev MVdefault! <ESC>:r $HOME/.snippets/default.css<CR>
